@@ -1,3 +1,5 @@
 hf_ear_vae
 *.dill
 data
+*.pt
+*.ckpt
