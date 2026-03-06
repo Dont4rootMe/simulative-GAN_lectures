@@ -1,5 +1,6 @@
 hf_ear_vae
 *.dill
 data
+checkpoints
 *.pt
 *.ckpt
